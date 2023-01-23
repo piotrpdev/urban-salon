@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/2023/01/23/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2023/01/23/hello-world/</link>
+	<atom:link href="/2022/06/22/hello-world-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2022/06/22/hello-world-2/</link>
 	<description>We do you right</description>
-	<lastBuildDate>Mon, 23 Jan 2023 16:55:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Jun 2022 19:50:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
